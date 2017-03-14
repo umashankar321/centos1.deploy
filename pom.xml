@@ -34,9 +34,7 @@
                 <configuration>
                         <url>http://localhost:8093/manager/text</url>
                         <server>mytomcat</server>
-			<username>admin</username>
-			<password>admin</password>
-                        <path>/buildform</path>
+			<path>/buildform</path>
                         
                 </configuration>
           </plugin>
